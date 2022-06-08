@@ -1,3 +1,3 @@
-module GoStudy1
+module GoStudy
 
 go 1.18
